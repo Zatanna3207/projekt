@@ -4,14 +4,20 @@
   "description": "",
   "main": "server.js",
   "dependencies": {
-    "espress": "^0.0.0",
     "express": "^4.17.1"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "start server.js"
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Zatanna3207/projekt.git"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Zatanna3207/projekt/issues"
+  },
+  "homepage": "https://github.com/Zatanna3207/projekt#readme"
 }
